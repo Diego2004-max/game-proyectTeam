@@ -1,0 +1,17 @@
+{
+  "name": "game-proyectteam",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene la arquitectura base de una aplicación web interactiva en 3D desarrollada con **Three.js**, **React**, **Express**, y **MongoDB**, orientada a videojuegos educativos. En esta versión se incluye el flujo completo de frontend y backend.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
